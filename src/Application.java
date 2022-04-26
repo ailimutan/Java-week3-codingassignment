@@ -1,0 +1,31 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int number;
+		float value;
+		String name;
+		
+		int [] numbers = new int[5];
+		numbers[0] = 10;
+		numbers[1] = 20;
+		numbers[2] = 30;
+		numbers[3] = 40;
+		numbers[4] = 50;
+		
+		
+		System.out.println(numbers[0]);
+		System.out.println(numbers[1]);
+		System.out.println(numbers[2]);
+		System.out.println(numbers[3]);
+		System.out.println(numbers[4]);
+	
+		
+		for(int index = 0; index < 6; index++) {
+			int number = numbers[index]
+		}
+		
+		
+
+}
